@@ -1,0 +1,17 @@
+name: IronLua
+url: http://ironlua.github.io
+description: the unity DLC solution powered by lua with c#
+
+#permalink: /:year/:month/:day/:title/
+gems:           ['jekyll-multiple-languages']
+language_default: 'en'
+languages:        ['en', 'cn']
+
+fill_default_content: true
+
+destination: ironlua.github.io
+
+paginate: 10
+highlighter: rouge
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'dev']
