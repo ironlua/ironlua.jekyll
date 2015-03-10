@@ -14,4 +14,4 @@ destination: ironlua.github.io
 paginate: 10
 highlighter: rouge
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'dev']
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'ps', 'ironlua.github.io']
