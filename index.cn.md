@@ -15,7 +15,7 @@ title: IronLua 主页
 ====================================
 > + 快速开发游戏逻辑
 > + Unity平台最快的Lua实现
-> + Unity平台唯一靠谱的 [DLC](http://zh.wikipedia.org/wiki/%E8%BF%BD%E5%8A%A0%E4%B8%8B%E8%BD%BD%E5%86%85%E5%AE%B9)解决方案
+> + Unity平台唯一靠谱的全平台自动更新[(DLC)](http://zh.wikipedia.org/wiki/%E8%BF%BD%E5%8A%A0%E4%B8%8B%E8%BD%BD%E5%86%85%E5%AE%B9)解决方案
 
 
 
@@ -43,4 +43,4 @@ IronLua专业版解决方案
 购买与下载
 ==========
 > + 个人用户请到 [Unity商店](https://www.assetstore.unity3d.com/#!/content/31849) 购买下载
-> + 或者你可以联系我们购买*团队版*，有更多优惠哟 ！！！
+> + 或者你可以[联系我们](mailto:ironlua.u3d@gmail.com)购买*团队版*，有更多优惠哟 ！！！
