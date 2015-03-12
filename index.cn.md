@@ -43,4 +43,4 @@ IronLua专业版解决方案
 购买与下载
 ==========
 > + 个人用户请到 [Unity商店](https://www.assetstore.unity3d.com/#!/content/31849) 购买下载
-> + 或者你可以[联系我们](mailto:ironlua.u3d@gmail.com)购买*团队版*，有更多优惠哟 ！！！
+> + 或者你可以[购买](/cn/sales/)*团队版*，有更多优惠哟 ！！！
