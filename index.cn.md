@@ -16,6 +16,7 @@ title: IronLua 主页
 > + 快速开发游戏逻辑
 > + Unity平台最快的Lua实现
 > + Unity平台唯一靠谱的全平台自动更新[(DLC)](http://zh.wikipedia.org/wiki/%E8%BF%BD%E5%8A%A0%E4%B8%8B%E8%BD%BD%E5%86%85%E5%AE%B9)解决方案
+> + 原生多平台网络库，比更快还快：Windows(iocp), Linux(epoll), Android(epoll), iOS(kqueue)
 
 
 
@@ -29,15 +30,8 @@ c#/lua交互性能
 DLC解决方案
 ===========
 > + AssetBundle +　IronLua 相信你能很快搞出靠谱的DLC解决方案
-> + 如果你实在搞不定，请选择IronLua专业版。它帮你搞定一切
+> + 下个版本IronLua将直接集成完整DLC解决方案
 
-
-IronLua专业版解决方案
-====================
-> + DLC完美解决方案
-> + 原生多平台网络库，比更快还快：Windows(iocp), Linux(epoll), Android(epoll), iOS(kqueue)
-> + 原生数据描述语言支持： probuff, thrift, [gslang](https://github.com/gsdocker/gslang)
-> + 以上现在都没有，敬请期待：）
 
 
 购买与下载
